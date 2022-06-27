@@ -7,11 +7,6 @@
 - 🔗    Connect with me on <a href="https://www.linkedin.com/in/michael-ferrete-3485b2108/" target="_blank">LinkedIn</a>.
 - 💬    Ask me about my board game collection.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michael-ferrete-3485b2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-ferrete-3485b2108" height="30" width="40" /></a>
-</p>
-
 ## Languages & Tools 🛠
 ### Frontend
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
